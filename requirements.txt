@@ -17,3 +17,4 @@ emissor
 cltl.combot
 scipy
 seaborn
+transformers==4.23.0
